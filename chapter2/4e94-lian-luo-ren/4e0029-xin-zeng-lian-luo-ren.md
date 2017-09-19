@@ -11,7 +11,9 @@
 * ### \(2\) 上傳VCard
 * ### 提供使用者透過上傳VCard的方式建立聯絡人資訊。
 * ### Step1.使用者點擊 \[上傳VCard\] 按鈕，系統導至上傳VCard頁面
+
 * ### ![](/assets/source_uploadVCard.png)
+
 * ### Step2.使用者點選 \[選擇檔案\] 按鈕，選擇指定聯絡人VCard檔案上傳
 * ### ![](/assets/source_VCard02.png)
 * ### \(3\)  透過新增朋友關係建置聯絡人
